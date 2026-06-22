@@ -78,8 +78,3 @@ Run the notebook:
 ```bash
 jupyter notebook Weather_Data_Analysis.ipynb
 ```
-
-## Author
-
-Rithiga C V
-Artificial Intelligence and Data Science Student
